@@ -1,0 +1,5 @@
+X mean pass module,O mean not pass module
+Student{id='0001', name='ManhDung', birthDay='1996-01-16', courseName='C0820K1'} : X
+Student{id='0002', name='Duc', birthDay='1992-01-02', courseName='C0820K1'} : X
+Student{id='0003', name='Cuc', birthDay='1994-07-18', courseName='C0820K1'} : X
+Student{id='0004', name='Tung', birthDay='1995-05-15', courseName='C0820K1'} : X
